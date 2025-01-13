@@ -2,3 +2,5 @@ In Addition file
 We are adding this file inside local repository
 
 updated after commit
+
+changed after staging
